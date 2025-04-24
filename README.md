@@ -1,8 +1,12 @@
-## **Hi, I’m Michał Szewczak**  
-- I am currently studying data science (3rd year undergraduate) at the Faculty of Mathematics and Information Science at Warsaw University of Technology. 
-- I have used Python, R, SQL and Java.
+## **Hi, I’m Michał Szewczak** 
+- I am currently studying data science (3rd year undergraduate) at the Faculty of Mathematics and Information Science at Warsaw University of Technology. I am eager to develope in the field of data science and I am looking for internship to get practical experience.
 - Contact: miszewc4@gmail.com
-
+## **Tools I know**
+- Python (including NumPy, Pandas and Scikit-learn)
+- SQL
+- SAS
+- Power BI
+- R
 ## **Student Projects** 
 - [Ecommerce shoppers clustering](https://github.com/qw1mi/ml_pr2) -The main goal of this projet was to evaluate some clustering algorithms on a dataset describing web activity of ecommerce platform clients.  
 - [House price classification](https://github.com/Pacholki/IndiaHousePricing) - The goal of the project was to classify houses into 3 price categories using a dataset with information about houses in India.  
