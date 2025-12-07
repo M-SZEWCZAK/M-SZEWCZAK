@@ -1,9 +1,10 @@
 ## **Hi, I’m Michał Szewczak** 
-- I am currently studying data science (3rd year undergraduate) at the Faculty of Mathematics and Information Science at Warsaw University of Technology. I am eager to develope in the field of data science and I am looking for internship to get practical experience.
+- I am currently studying data science (4th year undergraduate) at the Faculty of Mathematics and Information Science at Warsaw University of Technology.
 - Contact: miszewc4@gmail.com
 ## **Tools I know**
 - Python (including NumPy, Pandas and Scikit-learn)
 - SQL
+- SSIS
 - SAS
 - Power BI
 - R
