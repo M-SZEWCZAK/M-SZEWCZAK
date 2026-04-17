@@ -1,5 +1,5 @@
 ## **Hi, I’m Michał Szewczak** 
-- I am currently studying data science (4th year undergraduate) at the Faculty of Mathematics and Information Science at Warsaw University of Technology.
+- I am currently studying data science (4th year (1st year graduate)) at the Faculty of Mathematics and Information Science at Warsaw University of Technology. 
 - Contact: miszewc4@gmail.com
 ## **Tools I know**
 - Python (including NumPy, Pandas and Scikit-learn)
